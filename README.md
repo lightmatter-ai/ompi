@@ -1,3 +1,8 @@
+# Open MPI - forked to lightmatter-ai/ompi
+
+Private fork for Lightmatter Inc development of Envise/Jupiter
+message-passing library, based on the v4.1.x branch.
+
 # Open MPI
 
 The Open MPI Project is an open source Message Passing Interface (MPI)
